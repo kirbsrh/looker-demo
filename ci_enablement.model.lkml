@@ -1,4 +1,4 @@
-connection: "looker-private-demo"
+connection: "bq_faa"
 
 include: "/views/dimensions/dim_products.view.lkml"
 include: "/views/dimensions/dim_users.view.lkml"
